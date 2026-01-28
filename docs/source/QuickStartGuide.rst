@@ -4,7 +4,7 @@ Quick Start Guide
 1. Electronic Piano Assembly
 ----------------------------
 
-**Please watch the following video to assemble the electronic paino.**
+**Please watch the following video to assemble the electronic piano.**
 
 .. raw:: html
 
@@ -13,7 +13,7 @@ Quick Start Guide
 .. raw:: html
 
    <div style="margin-top: 30px;"></div>
-   
+
 **By watching this video, you can use it quickly:**
 
 - The video contains the assembly steps of the electronic piano, the code burning method, the description of the web page control connection, and the function demonstration. 
