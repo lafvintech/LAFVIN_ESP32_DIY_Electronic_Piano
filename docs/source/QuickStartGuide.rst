@@ -10,6 +10,12 @@ Quick Start Guide
 
     <iframe width="650" height="350" src="https://www.youtube.com/embed/Xr26TG5Za_g" title="LAFVIN DlY Electronic Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+   
+The video contains the assembly steps of the electronic piano, the code burning method, the description of the web page control connection, and the function demonstration. By watching this video, you can use it quickly; For more detailed instructions, please continue to read the following graphic tutorial.
+
 ----
 
 **Wiring**
