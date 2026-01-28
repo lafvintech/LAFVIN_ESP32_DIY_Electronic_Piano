@@ -14,7 +14,11 @@ Quick Start Guide
 
    <div style="margin-top: 30px;"></div>
    
-The video contains the assembly steps of the electronic piano, the code burning method, the description of the web page control connection, and the function demonstration. By watching this video, you can use it quickly; For more detailed instructions, please continue to read the following graphic tutorial.
+**By watching this video, you can use it quickly:**
+
+- The video contains the assembly steps of the electronic piano, the code burning method, the description of the web page control connection, and the function demonstration. 
+
+- For more detailed instructions, please continue to read the following graphic tutorial.
 
 ----
 
