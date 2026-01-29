@@ -158,7 +158,7 @@ C. Open the Arduino IDE and click **Sketch** → **Include Library** → **Add .
 
 D. In the pop-up window, locate the folder of the library you just downloaded and unzipped, select it, and click Open to complete the import.
 
-.. image:: _static/arduino/10.lib.png
+.. image:: _static/arduino/10.lib1.png
    :width: 800
    :align: center
 
