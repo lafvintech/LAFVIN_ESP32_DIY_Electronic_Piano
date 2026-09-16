@@ -87,11 +87,12 @@ A. Click on the **BOARDS MANAGER** icon on the right and search for **"ESP32"**.
 
 ----
 
-B. Find the core package named **esp32 by Espressif systems**, select version **2.0.12**, and click the **install** button to install it.
+B. Find the core package named **esp32 by Espressif systems**, select version **3.0.0**, and click the **install** button to install it.
 
-.. image:: _static/arduino/20.esp.png
+.. image:: _static/arduino/20.ESP32_1.png
    :width: 800
    :align: center
+
 ----
 
 C. You can view the download progress in the OUTLOOK window.
