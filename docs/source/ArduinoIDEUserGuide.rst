@@ -95,6 +95,16 @@ B. Find the core package named **esp32 by Espressif systems**, select version **
 
 ----
 
+.. attention::
+
+   - The code for this project is based on ESP32 Arduino Core 3.x; please ensure that the installed board support package version is 3.0 or higher.
+     
+     - How to check the version:
+
+     - Open the Arduino IDE → "Tools" → "Board" → "Boards Manager", search for "esp32", and the installed version number will be displayed to the right of the entry.
+ 
+   - If you encounter an error during the installation of the ESP32 core package, it may be due to network issues. Please try again later.
+
 C. You can view the download progress in the OUTLOOK window.
 
 .. image:: _static/arduino/21.esp.png
